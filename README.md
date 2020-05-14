@@ -1,2 +1,3 @@
 # Hello-World
-Firs of many
+First of many
+just trying it out
